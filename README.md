@@ -30,7 +30,6 @@ I value clean architecture, maintainability, and performance.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://vercel.app" />
   <img height="180em" src="https://streak-stats.demolab.com?user=DannySF01&theme=gruvbox&border_radius=4.5" />
 </p>
 
