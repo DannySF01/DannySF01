@@ -27,7 +27,7 @@ I value clean architecture, maintainability, and performance.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://vercel.app" />
@@ -38,7 +38,7 @@ I value clean architecture, maintainability, and performance.
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Let's Connect
 
 <p align="left">
   <a href="https://dannysf01.github.io" target="_blank">
