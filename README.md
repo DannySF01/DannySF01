@@ -1,16 +1,50 @@
-## Hi there 👋
+# Daniel Fernandes
 
-<!--
-**DannySF01/DannySF01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Frontend Developer`**
 
-Here are some ideas to get you started:
+React & TypeScript · Aveiro, Portugal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+Frontend engineer focused on building **scalable web applications** with strong UX foundations.
+
+I work primarily with **React and TypeScript**, designing complex dashboards.  
+I value clean architecture, maintainability, and performance.
+
+**Main Focus**
+- React
+- TypeScript
+- Component Architecture
+- Frontend Performance
+
+---
+
+## 🛠 Core Stack
+
+<img src="https://skillicons.dev/icons?i=react,ts,javascript,next,tailwind,css,html,nodejs" />
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=DannySF01&theme=gruvbox&border_radius=4.5" />
+</p>
+
+![Stats](./profile/stats.svg)
+
+---
+
+### 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://dannysf01.github.io" target="_blank">
+    <img src="https://shields.io" target="_blank">
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" target="_blank">
+  </a>
+</p>
