@@ -39,11 +39,7 @@ I value clean architecture, maintainability, and performance.
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://dannysf01.github.io" target="_blank">
-    <img src="https://shields.io" target="_blank">
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" target="_blank">
-  </a>
-</p>
+<a href="https://linkedin.com/in/daniel-f-874186115">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+</a>
+
